@@ -1,0 +1,43 @@
+.row {
+    display: flex;
+  }
+  .column {
+    flex: 1;
+    padding: 10px;
+  }
+  .media video, .media img {
+    max-width: 70%;
+    height: auto;
+  }
+  .media video, .media img {
+    max-width: 70%;
+    height: auto;
+  }
+  .stats {
+    display: flex;
+    gap: 20px;
+  }
+  .stat-item {
+    text-align: center;
+  }
+  .album img {
+    width: 150px;
+    margin: 10px;
+  }
+  #map {
+    width: 100%;
+    height: 400px;
+  }
+  .product-card {
+    border: 1px solid #ddd;
+    padding: 10px;
+    text-align: center;
+  }
+  .product-card img {
+    width: 100%;
+    height: auto;
+  }
+  .product-card button {
+    margin-top: 10px;
+  }
+   
